@@ -1,0 +1,13 @@
+name = "Pixelmon"
+filename = "Pixelmon-1.20.1-9.2.3-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1505ce56f683053e5f4b69b2c61374d1ea54f9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4782028
+project-id = 389487

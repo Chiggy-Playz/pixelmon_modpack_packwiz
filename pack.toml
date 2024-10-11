@@ -1,0 +1,13 @@
+name = "The Pixelmon Modpack"
+author = "PixelmonMod"
+version = "9.2.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e0d4263997741167b9085c96386a9b1dd2edb73ca7a60ba050a9dd3e3598dfce"
+
+[versions]
+forge = "47.1.46"
+minecraft = "1.20.1"
